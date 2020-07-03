@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SAPPORO Creative Camp</string>
+
+    <!-- gif URL -->
+    <string name="japan">https://www.civillink.net/sozai/kokki100/pics2648.gif</string>
+    <string name="china">https://www.civillink.net/sozai/kokki100/pics2660.gif</string>
+    <string name="usa">https://www.civillink.net/sozai/kokki100/pics2654.gif</string>
+    <string name="france">https://www.civillink.net/sozai/kokki100/pics2658.gif</string>
+    <string name="england">https://www.civillink.net/sozai/kokki100/pics2676.gif</string>
+</resources>
